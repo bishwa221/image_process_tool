@@ -1,4 +1,4 @@
-#include <opencv2/opencv.hpp>
+#include <opencv2/opencv.hpp>  // use path to your own opencv installation
 #include <iostream>
 
 int main() {
